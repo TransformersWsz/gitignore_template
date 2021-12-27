@@ -14,10 +14,10 @@
 *.tar.gz
 
 # images
-*.jpg
-*.jpeg
-*.png
-*.gif
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
 
 # MacOS file
 .DS_Store
