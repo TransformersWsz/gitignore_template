@@ -4,9 +4,24 @@
 # VSCode
 .vscode/
 
-# PyTorch Model
+# checkpoint
 *.pt
 *.pth
+*.ckpt
+
+# compressed files
+*.zip
+*.tar.gz
+
+# images
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# MacOS file
+.DS_Store
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
